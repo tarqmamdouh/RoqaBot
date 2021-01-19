@@ -1,4 +1,4 @@
-# 🤖 Roqa (Discord Multifunctional Bot)
+# 🤖 Roqa (Discord Multi-Functional Bot)
 
 > RoqaBot is a Discord Multifunctional Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
