@@ -1,6 +1,6 @@
 # 🤖 Roqa (Discord Multifunctional Bot)
 
-> RoqaBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+> RoqaBot is a Discord Multifunctional Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 > Roqa Is inspired and Will-Be evolved from Various Source Codes on git
 
