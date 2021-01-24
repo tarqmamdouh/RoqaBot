@@ -4,6 +4,8 @@
 
 > Roqa Is inspired and Will-Be evolved from Various Source Codes on git
 
+![Logo](https://i.imgur.com/7aPyXqm.jpg)
+
 ## Requirements
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
