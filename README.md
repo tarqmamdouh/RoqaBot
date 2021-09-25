@@ -1,3 +1,7 @@
+# Deprecated :no_entry_sign:
+
+Due to Discord new policies roqa reached it's end of life and will be no longer supported :(
+
 # 🤖 Roqa (Discord Multi-Functional Bot)
 
 > RoqaBot is a Discord Multifunctional Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
